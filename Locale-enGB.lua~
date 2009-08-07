@@ -1,0 +1,8 @@
+local L = LibStub("AceLocale-3.0"):NewLocale("AutoBuffsDruid", "enUS", true)
+
+-- Player states
+L["buffed"] = "Buffed"
+L["fakedc"] = "Offline"
+L["deadjim"] = "Dead"
+L["farfaraway"] = "Out of Range"
+L["wantsbuffing"] = "Need Buffing"
